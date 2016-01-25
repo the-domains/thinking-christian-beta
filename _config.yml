@@ -1,0 +1,28 @@
+name: Thinking Christian Beta
+favicon: null
+layout_spectrum: 0.5207853598985821
+typography_spectrum: 0.4525345964357257
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2241992885246873
+  lightness: 0.8850479659158736
+  saturation: 0.4036064096726477
+  rhythmicContrast: 0.13767431280575693
+purpose: []
