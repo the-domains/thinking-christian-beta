@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thinking Christian Beta]]></title>
+        <description><![CDATA[Thinking Christian Beta]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 03:40:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tithing ]]></title>
+            <description><![CDATA[<article><h1>Tithing </h1><p> In choosing the first topic to post about, I basically wanted to find the most controversial and explosive topic that I could write about.  But then I thought about it, and sex is just too much to cover on the first post.  What I need to do is lay some groundwork to give you a good feel for where I'm coming from.  But I also need a topic that is near and dear enough to engage you and keep you listening. </p></article>]]></description>
+            <link>undefinedtithing/index.html</link>
+            <guid isPermaLink="false">ac768270-8a45-4371-a076-d9e890837d27</guid>
+            <pubDate>Mon, 25 Jan 2016 03:40:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
